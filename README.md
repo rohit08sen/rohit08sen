@@ -9,7 +9,7 @@
 
 - 4th year B.Tech CSE student at Silicon University  
 - Passionate about full-stack development and backend architecture  
-- Solved 450+ DSA problems on LeetCode, GFG, and HackerRank  
+- Solved 550+ DSA problems on LeetCode, GFG, CodeChef and HackerRank  
 - Currently building scalable apps using the MERN stack  
 - 2025 Goal: Contribute to open-source, improve cloud skills & crack top tech roles  
 
